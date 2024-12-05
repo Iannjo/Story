@@ -1,2 +1,2 @@
-When we have managed to setup our git hub and can push our changes to the remote repository then are we on the money
+When we have managed to setup our git hub and can push our changes to the remote repository then are we on the money. As we continue in this journey of learning we are also reminded that we are just standing on the shoulders of others who came before us.
 
