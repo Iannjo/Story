@@ -1,1 +1,1 @@
-And so we now try yo use ssh and pass and git to push to remote
+And so we now try yo use ssh and pass and git to push to remote. It is now working when using pass and the https token stored in pass. Now next is using SSH that is not stored in pass. Does it need to stored in pass?
